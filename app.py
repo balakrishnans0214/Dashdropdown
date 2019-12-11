@@ -8,7 +8,7 @@ import pandas as pd
 # In[21]:
 
 
-df = pd.read_csv('/home/client/Downloads/1minstock.csv')
+df = pd.read_csv('gs://stockcsv/oneminstock.csv')
 df.head()
 
 
