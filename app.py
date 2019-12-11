@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # In[21]:
 
 
-df = pd.read_csv('gs://stockcsv/oneminstock.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/balakrishnans0214/Dashdropdown/master/oneminstock.csv')
 df.head()
 
 
