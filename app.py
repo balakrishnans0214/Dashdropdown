@@ -1,8 +1,9 @@
 import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
 %matplotlib inline
-
+import matplotlib
+matplotlib.use('agg')
+import matplotlib.pyplot as plt
 
 # In[21]:
 
