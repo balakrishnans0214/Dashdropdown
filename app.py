@@ -1,10 +1,9 @@
 import numpy as np
 import pandas as pd
-%matplotlib inline
 import matplotlib
 matplotlib.use('agg')
 import matplotlib.pyplot as plt
-
+%matplotlib inline
 # In[21]:
 
 
