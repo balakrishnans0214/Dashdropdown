@@ -7,6 +7,6 @@ dash-table-experiments==0.6.0
 dash.ly==0.17.3
 plotly==2.0.11
 gunicorn==19.7.1
-pandas==1.13.0
+pandas==0.24.2
 xgboost==0.90
 matplotlib==2.2.3
