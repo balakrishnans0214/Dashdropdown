@@ -1,6 +1,6 @@
 dash==0.35.1
 dash-core-components==0.42.1
-dash-html-components==0.13.4
+dash-html-components==2.0.0
 dash-renderer==0.12.1
 dash-table==3.1.11
 dash-table-experiments==0.6.0
